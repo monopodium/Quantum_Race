@@ -1,0 +1,34 @@
+QAOA-Qiskit
+https://learn.qiskit.org/course/ch-applications/solving-combinatorial-optimization-problems-using-qaoa#:~:text=QAOA%20(Quantum%20Approximate%20Optimization%20Algorithm,(%20%CE%B2%20%2C%20%CE%B3%20)%20%E2%9F%A9%20.
+
+Qiskit textbook
+https://qiskit.org/learn/
+
+github-仓库
+https://github.com/monopodium/Quantum_Race
+
+量子计算云平台
+https://quantumcomputer.ac.cn/Lab.html
+
+云平台SDK使用说明
+https://docs.quantumcomputer.ac.cn/
+
+isQ-手册
+http://www.arclightquantum.com/isq/grammar/
+
+isQ-core 手册
+http://www.arclightquantum.com/isq-core/api/
+
+Quingo-手册
+https://quingo.gitee.io/docs/
+
+QCIS-手册
+https://quantumcomputer.ac.cn/Knowledge/detail/all/e3948e8e0fab45c5adcfc730d0a1a3ba.html
+
+openQASM
+https://github.com/openqasm/openqasm
+
+QASM 2 circ
+https://www.media.mit.edu/quanta/qasm2circ/
+
+
